@@ -4,7 +4,7 @@ const client = new language.LanguageServiceClient();
 
 // Text for sentiment analysis
 const positiveText =
-  'I am incredibly happy today! It may be the best day ever!';
+  'I am incredibly a happy today! It may be the best day ever!';
 const negativeText =
   "Oh no, it's Monday. My alarm didn't go off! I have a presentation in afew minutes. This is really bad.";
 
